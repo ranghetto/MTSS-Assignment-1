@@ -6,4 +6,6 @@
 
 - [Schede Madri](./componenti/schede-madri.md)
 
+# Periferiche
+
 Elettronica Padovana
