@@ -1,7 +1,9 @@
 1226325 2008066
 
-[Processori](./processori.md)
+# Componenti
 
-[Schede Madri](./schede-madri.md)
+- [Processori](./componenti/processori.md)
+
+- [Schede Madri](./componenti/schede-madri.md)
 
 Elettronica Padovana
